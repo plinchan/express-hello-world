@@ -13,7 +13,8 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render Plinchan!</title>
+    <h1>Hello from Render Plinchan!</h1>
+    <h2>Testadoooooooo</h2>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
